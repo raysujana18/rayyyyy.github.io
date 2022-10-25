@@ -1,0 +1,9 @@
+body::before {
+    content: "Created with by Ray Sujana";
+    color: white;
+    opacity: .3;
+    font-size: 2vw;
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+}
